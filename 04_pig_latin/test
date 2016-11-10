@@ -1,0 +1,5 @@
+def translate(setning)
+	ord = setning.split
+	ord.each do |x|
+		translater(x)
+end
